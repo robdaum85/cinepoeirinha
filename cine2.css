@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+  }
+  
+  .video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .video {
+    width: 100%;
+    height: auto;
+    max-height: 80vh;
+  }
+  
+  button {
+    margin: 10px;
+  }
+  
+  .play {
+    background-color: green;
+    border-color: green;
+  }
+  
+  .play:hover {
+    background-color: darkgreen;
+    border-color: darkgreen;
+  }
+  
+  .pause {
+    background-color: yellow;
+    border-color: yellow;
+  }
+  
+  .pause:hover {
+    background-color: orange;
+    border-color: orange;
+  }
+  
+  .stop {
+    background-color: red;
+    border-color: red;
+  }
+  
+  .stop:hover {
+    background-color: darkred;
+    border-color: darkred;
+  }
