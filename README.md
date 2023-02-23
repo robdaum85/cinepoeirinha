@@ -1,4 +1,6 @@
-# Cine Poeirinha
+# Cine Poeirinha 
+
+em funcionamento https://rbdm85.netlify.app/
 
 Este é um projeto de página da web para exibir um vídeo com controles de reprodução, além de informações sobre o vídeo em execução.
 
